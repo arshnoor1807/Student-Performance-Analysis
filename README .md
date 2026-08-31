@@ -31,11 +31,12 @@ Migrated the engineered dataset into a relational database engine to evaluate pe
 ---
 
 ## 📊 Visual Insights & Performance Trends
-*(Note: To showcase your charts directly inside this file on GitHub, upload your exported plot images to your repository and reference them here!)*
+All data visualizations are rendered natively inside the primary notebook architecture:
 
-*   **Study Tier Distributions:** A custom Matplotlib categorical bar chart explicitly maps the grade gap between high-volume and low-volume study habits.
-*   **Linear Correlation Slopes:** A custom scatter plot mapping raw individual student data elements visually validates a strong positive linear correlation between weekly study hours and final scores.
+*   **Study Tier Distributions:** A custom Matplotlib categorical bar chart maps the grade gap between high-volume and low-volume study habits.
+*   **Linear Correlation Slopes:** A custom scatter plot mapping raw student records visually validates the strong positive linear correlation between weekly study hours and final scores.
 
+👉 *To view the complete interactive data charts and raw tables, please click and open the `student_analysis_pipeline.ipynb` file above.*
 ---
 
 ## 💡 Executive Recommendations
